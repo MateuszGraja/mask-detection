@@ -106,11 +106,8 @@ Sample training log:
 Epoch [1/10], Loss: 0.8342
 Epoch [2/10], Loss: 0.5421
 ...
-Social Credit System: +92.75%
+92.75%
 ```
-
-> _"Social Credit System"_ is a humorous printout showing accuracy on the test set.
-
 ---
 
 ## Requirements
