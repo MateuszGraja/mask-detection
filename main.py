@@ -152,4 +152,4 @@ with torch.no_grad():
         total += labels.size(0)
         correct += (predicted == labels).sum().item()
 
-    print(f"Social Credit System: +{100 * correct / total:.2f}%") #alternative: accuracy on test set XD
+    print(f"{100 * correct / total:.2f}%")
